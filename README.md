@@ -26,7 +26,7 @@ Finally, there is a live demo. It improves a serverless Function app that looks 
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
-| [KCDC 2026](https://kcdc.info) | Kansas City, MO | September 10, 2026 | 11:15 EDT | 2204 | Availalbe Afterwards |
+| [KCDC 2026](https://kcdc.info) | Kansas City, MO | September 10, 2026 | 11:15 EDT | 2204 | Available Afterwards |
 | [The Cloud & AI Summit 2026](https://www.cloudandaisummit.com/) | St. Louis | October 2, 2026 | 13:15 CDT | Room 3 | Available Afterwards |
 
 ## Resources
